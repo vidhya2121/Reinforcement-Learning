@@ -1,0 +1,2 @@
+This repository contains Python examples for Reinforcement Learning
+The scripts and data are taken from Udemy course - https://www.udemy.com/course/artificial-intelligence-reinforcement-learning-in-python/
